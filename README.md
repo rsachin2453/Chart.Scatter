@@ -2,7 +2,7 @@
 
 *Scatter chart plugin for Chart.js* [chartjs.org](http://www.chartjs.org)
 
-[Documentation & live demo](http://dima117.github.io/Chart.Scatter/)
+[Documentation & live demo](ttps://rsachin2453.github.io/Chart.Scatter/.)
 
 ## License
 
